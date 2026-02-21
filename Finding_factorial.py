@@ -13,3 +13,5 @@ if n>=0:
     print(f"Factorial of {n} is {f}")
 else:
     print("Invalid Input")
+    print("Number should be an Integer which should be greater than or equal to 0")
+    
